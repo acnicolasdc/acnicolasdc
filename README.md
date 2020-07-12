@@ -1,16 +1,17 @@
-### Hi there 👋
+# Nicolás Reyes - @acnicolasdc
+####`Just call me Nick`
+--------
+## Hi There 👋 
+I’ve been a software developer for over 5 years.
 
-<!--
-**acnicolasdc/acnicolasdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a multimedia engineer with strong knowledge in software architecture and
+UX, specialized in Web Frontend and Backend Development.
 
-Here are some ideas to get you started:
+###Why acnicolasdc?
+I grew up looking to my dad play the drums, and before I became a Sofware Developer, I dreamed to be a Rock Star like Angus Young from **AC/DC** 🤘, but after maybe two years of playing the drums, I knew the software world and I fell in love!. Now I'm Rock Star but of the Sotware world 💻 ! and the music, my hobbie and my soothing when the bugs🐞 are very stranges!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Talk to me 
+* [Linkedin](https://www.linkedin.com/feed/) 
+* [Twitter](https://twitter.com/acnicolasdc)
+* [Instagram](https://www.instagram.com/acnicolasdc/)
