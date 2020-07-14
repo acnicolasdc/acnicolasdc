@@ -11,7 +11,6 @@ UX, specialized in Web Frontend and Backend Development.
 I grew up looking to my dad play the drums, and before I became a Software Developer, I dreamed to be a Rock Star like Angus Young from **AC/DC** 🤘, but after maybe two years of playing the drums, I knew the software world and I fell in love!. Now I'm Rock Star but of the Software world 💻 ! and the music, my hobby and my soothing when the bugs🐞 are very stranges!
 
 
-<a href="https://www.buymeacoffee.com/acnicolasdc" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Talk to me 
 * [Linkedin](https://www.linkedin.com/feed/) 
